@@ -1,0 +1,1 @@
+export const defaultCities = ['paris', 'berlin', 'london', 'madrid', 'tokyo']
